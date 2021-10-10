@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/life-admin-demo/static/css/main.6b9abbfe.chunk.css",
-    "main.js": "/life-admin-demo/static/js/main.211380a7.chunk.js",
-    "main.js.map": "/life-admin-demo/static/js/main.211380a7.chunk.js.map",
+    "main.css": "/life-admin-demo/static/css/main.5f3e07a8.chunk.css",
+    "main.js": "/life-admin-demo/static/js/main.b8fb9579.chunk.js",
+    "main.js.map": "/life-admin-demo/static/js/main.b8fb9579.chunk.js.map",
     "runtime-main.js": "/life-admin-demo/static/js/runtime-main.dbc90f9e.js",
     "runtime-main.js.map": "/life-admin-demo/static/js/runtime-main.dbc90f9e.js.map",
     "static/js/2.b97cf23a.chunk.js": "/life-admin-demo/static/js/2.b97cf23a.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/6.624dfd61.chunk.js": "/life-admin-demo/static/js/6.624dfd61.chunk.js",
     "static/js/6.624dfd61.chunk.js.map": "/life-admin-demo/static/js/6.624dfd61.chunk.js.map",
     "index.html": "/life-admin-demo/index.html",
-    "static/css/main.6b9abbfe.chunk.css.map": "/life-admin-demo/static/css/main.6b9abbfe.chunk.css.map",
+    "static/css/main.5f3e07a8.chunk.css.map": "/life-admin-demo/static/css/main.5f3e07a8.chunk.css.map",
     "static/js/2.b97cf23a.chunk.js.LICENSE.txt": "/life-admin-demo/static/js/2.b97cf23a.chunk.js.LICENSE.txt",
     "static/js/3.f8fb6b37.chunk.js.LICENSE.txt": "/life-admin-demo/static/js/3.f8fb6b37.chunk.js.LICENSE.txt",
     "static/js/4.de980bab.chunk.js.LICENSE.txt": "/life-admin-demo/static/js/4.de980bab.chunk.js.LICENSE.txt",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.dbc90f9e.js",
     "static/js/2.b97cf23a.chunk.js",
-    "static/css/main.6b9abbfe.chunk.css",
-    "static/js/main.211380a7.chunk.js"
+    "static/css/main.5f3e07a8.chunk.css",
+    "static/js/main.b8fb9579.chunk.js"
   ]
 }
