@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/life-admin-demo/static/css/main.cfbc4f09.chunk.css",
-    "main.js": "/life-admin-demo/static/js/main.4082746b.chunk.js",
-    "main.js.map": "/life-admin-demo/static/js/main.4082746b.chunk.js.map",
+    "main.js": "/life-admin-demo/static/js/main.b0539d10.chunk.js",
+    "main.js.map": "/life-admin-demo/static/js/main.b0539d10.chunk.js.map",
     "runtime-main.js": "/life-admin-demo/static/js/runtime-main.dbc90f9e.js",
     "runtime-main.js.map": "/life-admin-demo/static/js/runtime-main.dbc90f9e.js.map",
     "static/js/2.b97cf23a.chunk.js": "/life-admin-demo/static/js/2.b97cf23a.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.dbc90f9e.js",
     "static/js/2.b97cf23a.chunk.js",
     "static/css/main.cfbc4f09.chunk.css",
-    "static/js/main.4082746b.chunk.js"
+    "static/js/main.b0539d10.chunk.js"
   ]
 }
