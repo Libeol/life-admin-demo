@@ -1,0 +1,90 @@
+.home-wrapper {
+  padding: 20px 50px;
+}
+
+.home-table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  background-color: rgb(253, 253, 253);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.199);
+}
+
+.table-header {
+  border-bottom: solid 1px #eee;
+}
+
+.table-row {
+  border-bottom: solid 1px #eee;
+  cursor: pointer;
+}
+
+.table-row:hover {
+  background-color: #d4f0fd50;
+}
+
+.home-table th{
+  text-align: center;
+  width: 25%;
+  padding: 15px 0;
+}
+.table-data {
+  text-align: center;
+  width: 25%;
+  padding: 15px 0;
+}
+.table-data2 {
+  text-align: center;
+  width: 5px;
+  padding: 0px 0;
+}
+
+.home-title {
+  margin: 20px;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.mode{
+  max-width: 400px;
+  width:80%;
+  margin: 0 auto;
+}
+.mode ul{
+  padding: 0px;
+  width:100%;
+  
+}
+.mode li{
+  list-style-type: none;
+  float:left;
+  width:25%;
+}
+.mode li button{
+  display:block;
+  margin:0 auto;
+  width:90%;
+  height:50px;
+  background-color: rgb(255, 255, 255);
+  border:none;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.452);
+  cursor: pointer;
+  border-radius: 5px;
+}
+.mode li button:hover {
+  background-color: #d4f0fda6;
+  box-shadow: 1px 1px 3px 1px rgb(160, 160, 160);
+}
+@media screen and (max-width: 500px) {
+  .mode li{
+    width:50%;
+    margin-top:20px;
+  }
+}
+.clear{
+  clear: left;
+}

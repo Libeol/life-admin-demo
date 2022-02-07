@@ -1,0 +1,18 @@
+.tr-contents {
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  overflow: auto;
+  z-index: 10;
+}
+
+.chart-wrapper {
+  background-color: #f8f8f8;
+  padding-top: 40px;
+}
+
+.tr-txt {
+  margin: 5rem auto;
+  font-size: 1.6rem;
+}

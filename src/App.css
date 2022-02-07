@@ -1,0 +1,124 @@
+* {
+  font-size: 1.6rem;
+  color: #474747;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(235, 235, 235);
+}
+
+.header {
+  padding: 10px 50px;
+  display: flex;
+  background-color: rgb(243, 243, 243);
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.199);
+}
+
+.title {
+  margin: 0;
+  font-size: 32px;
+}
+
+.log-out {
+  margin: 0 0 0 auto;
+}
+
+.page-wrapper {
+  height: 68vh;
+  overflow: scroll;
+}
+
+.info-title {
+  margin: 20px;
+}
+
+.info-wrapper {
+  padding: 20px 50px;
+}
+
+.button-wrapper {
+  margin: 20px;
+}
+
+.fa-caret-square-left,
+.fa-home {
+  color: dimgray;
+  font-size: 24px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.fa-caret-square-left:hover,
+.fa-home:hover {
+  color: darkgray;
+  font-size: 24px;
+  margin-right: 20px;
+}
+
+.info-contents {
+  margin: 0 auto;
+  width: 80vw;
+  background-color: rgb(253, 253, 253);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.199);
+}
+
+.input-wrapper {
+  margin-top: 30vh;
+}
+
+.fa-sign-in-alt {
+  margin-left: 5px;
+}
+
+@media screen and (max-width: 960px) {
+  * {
+    font-size: 1.4rem;
+  }
+  .title {
+    margin: 0;
+    font-size: 22px;
+  }
+
+  .page-wrapper {
+    height: 70vh;
+    overflow: scroll;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  * {
+    font-size: 1.2rem;
+  }
+  .title {
+    margin: 0;
+    font-size: 20px;
+  }
+  .page-wrapper {
+    height: 70vh;
+    overflow: scroll;
+  }
+}
+
+.income-list button{
+    display: block;
+    margin:0 auto;
+    width:300px;
+    padding: 5px;
+    margin-top:10px;
+    margin-bottom:10px;
+    background-color: white;
+    border:none;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.37);
+    cursor: pointer;
+
+}
+
+.check {
+  background-color: white;
+  border:none;
+}
+.check img{
+  width:25px;
+}
